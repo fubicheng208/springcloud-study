@@ -1,0 +1,136 @@
+GET http://localhost:82/consumer/dept/list
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-07-13T122620.500.json
+
+###
+
+GET http://localhost:82/consumer/dept/get/3
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-07-12T050907.500.json
+
+###
+
+GET http://localhost:82/consumer/dept/get/3
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-07-12T050823.500.json
+
+###
+
+GET http://localhost:82/consumer/dept/get/2
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-07-12T050758.500.json
+
+###
+
+GET http://localhost:82/consumer/dept/list
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-07-12T050743.200.json
+
+###
+
+GET http://localhost:82/consumer/dept/get/1
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-07-12T050719.500.json
+
+###
+
+GET http://localhost:82/consumer/dept/get/1
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-07-12T050435.500.json
+
+###
+
+GET http://localhost:82/consumer/dept/get/1
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-07-12T050252.500.json
+
+###
+
+GET http://localhost:82/consumer/dept/get/1
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-07-12T045759.500.json
+
+###
+
+GET http://localhost:82/consumer/dept/list
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-07-12T045614.500.json
+
+###
+
+GET http://localhost:82/consumer/list
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-07-12T045529.404.json
+
+###
+
+GET http://localhost:82/consumer/list
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-07-12T044913.404.json
+
+###
+
+GET http://localhost:82/consumer/list
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-07-12T044912.404.json
+
+###
+
+GET http://localhost:82/consumer/list
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-07-12T044910.404.json
+
+###
+
+GET http://localhost:82/consumer/list
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-07-12T044839.404.json
+
+###
+
+GET http://localhost:8001/dept/list
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-07-12T041728.200.json
+
+###
+
+GET http://localhost:8001/dept
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-07-12T041717.404.json
+
+###
+

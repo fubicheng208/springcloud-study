@@ -1,0 +1,1 @@
+[{"deptno":2,"dname":"开发部","db_source":"springcloud_db01"},{"deptno":3,"dname":"人事部","db_source":"springcloud_db01"},{"deptno":4,"dname":"财务部","db_source":"springcloud_db01"},{"deptno":5,"dname":"市场部","db_source":"springcloud_db01"},{"deptno":6,"dname":"运维部","db_source":"springcloud_db01"}]
